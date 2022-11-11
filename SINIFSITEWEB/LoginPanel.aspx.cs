@@ -11,7 +11,7 @@ namespace SINIFSITEWEB
 {
     public partial class LoginPanel : System.Web.UI.Page
     {
-        SqlConnection baglanti = new SqlConnection(@"Data Source=KarnetGuvenlik;Initial Catalog=BootsrapSinifSiteDB;Integrated Security=True");
+        SqlConnection baglanti = new SqlConnection(@"Data Source=.............;Initial Catalog=.......;Integrated Security=True");
         protected void Page_Load(object sender, EventArgs e)
         {
 
